@@ -10,9 +10,9 @@ function App() {
       <>
         <section className='wrapper'>
               <Nav />
-              <Route path='/Traveller-Guide' exact component={Main} />
+              <Main />
               <Switch>
-                  <Route path='/Traveller-Guide' exact component={Main} />
+                  <Route path='/' exact component={Main} />
                   <Route path="/place/:id" component={Place} />
               </Switch>
         </section>
