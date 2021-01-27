@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Traveller-Guide/static/css/main.392a441c.chunk.css",
+    "main.js": "/Traveller-Guide/static/js/main.a96c62b0.chunk.js",
+    "main.js.map": "/Traveller-Guide/static/js/main.a96c62b0.chunk.js.map",
+    "runtime-main.js": "/Traveller-Guide/static/js/runtime-main.17a7d0d2.js",
+    "runtime-main.js.map": "/Traveller-Guide/static/js/runtime-main.17a7d0d2.js.map",
+    "static/js/2.38d3b91d.chunk.js": "/Traveller-Guide/static/js/2.38d3b91d.chunk.js",
+    "static/js/2.38d3b91d.chunk.js.map": "/Traveller-Guide/static/js/2.38d3b91d.chunk.js.map",
+    "static/js/3.45104092.chunk.js": "/Traveller-Guide/static/js/3.45104092.chunk.js",
+    "static/js/3.45104092.chunk.js.map": "/Traveller-Guide/static/js/3.45104092.chunk.js.map",
+    "index.html": "/Traveller-Guide/index.html",
+    "static/css/main.392a441c.chunk.css.map": "/Traveller-Guide/static/css/main.392a441c.chunk.css.map",
+    "static/js/2.38d3b91d.chunk.js.LICENSE.txt": "/Traveller-Guide/static/js/2.38d3b91d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Traveller-Guide/static/media/logo.5c4eda44.svg",
+    "static/media/place.svg": "/Traveller-Guide/static/media/place.7d64241c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17a7d0d2.js",
+    "static/js/2.38d3b91d.chunk.js",
+    "static/css/main.392a441c.chunk.css",
+    "static/js/main.a96c62b0.chunk.js"
+  ]
+}
