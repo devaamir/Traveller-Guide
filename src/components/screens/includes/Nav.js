@@ -6,7 +6,7 @@ export default function Nav() {
     return (
         <Header>
             <Logo>
-                <Link to='/'>
+                <Link to='/Traveller-Guide'>
                 <LogoImg src={require('../../assets/images/logo.svg').default} alt="logo" />
                 </Link>
             </Logo>
