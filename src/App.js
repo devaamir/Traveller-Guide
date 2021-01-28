@@ -10,7 +10,6 @@ function App() {
       <>
         <section className='wrapper'>
               <Nav />
-              <div>Hi How Are You</div>
               <Switch>
                   <Route path='/Traveller-Guide' exact component={Main} />
                   <Route path="/place/:id" component={Place} />
