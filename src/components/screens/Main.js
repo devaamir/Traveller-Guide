@@ -31,7 +31,7 @@ export default function Main() {
             <PlacesList>
                 {places.map((place) => (
                     <ListItems key={place.id}>
-                        <Link to={`/place/${place.id}`} style={{textDecoration: 'none'}}>
+                        <Link to={`/Traveller-Guide/place/${place.id}`} style={{textDecoration: 'none'}}>
                             <PlaceImg src={place.image} alt={place.name} />
                             <PlaceName>{place.name}</PlaceName>
                             <Location><LocIcon src={require('../assets/images/place.svg').default} alt={place.location} />{place.location}</Location>
