@@ -1,3 +1,3 @@
 # Traveller-Guide
 Traveller Guide Sample Website
-Url: https://sayedmuuhammedaamir.github.io/Traveller-Guide
+Url: https://sayedmuhammedaamir.github.io/Traveller-Guide/
